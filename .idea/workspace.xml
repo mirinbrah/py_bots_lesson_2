@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf8328ad-f838-480b-aea1-3edf7699f83c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/py_bots_lesson_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/array_demonstration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/functions_demonstration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/keywords_demonstration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/message_count_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/slicing_demonstration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/prev_lesson_with_def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/task_1_even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/task_1_variant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/task_2_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/task_2_calc_better.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="32IMB7OgI5KegSXXTu6rQfZckAs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.array_demonstration.executor": "Run",
+    "Python.functions_demonstration.executor": "Run",
+    "Python.keywords_demonstration.executor": "Run",
+    "Python.message_count_bot.executor": "Run",
+    "Python.slicing_demonstration.executor": "Run",
+    "Python.task_1_even_odd.executor": "Run",
+    "Python.task_1_variant.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python_projects\py_bots_lesson_2\previous_stuff_and_homework" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf8328ad-f838-480b-aea1-3edf7699f83c" name="Changes" comment="" />
+      <created>1757103494792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757103494792</updated>
+    </task>
+    <servers />
+  </component>
+</project>
