@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf8328ad-f838-480b-aea1-3edf7699f83c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/py_bots_lesson_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/array_demonstration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/functions_demonstration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/keywords_demonstration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/message_count_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/slicing_demonstration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/prev_lesson_with_def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/task_1_even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/task_1_variant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/task_2_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/previous_stuff_and_homework/task_2_calc_better.py" afterDir="false" />
+    <list default="true" id="bf8328ad-f838-480b-aea1-3edf7699f83c" name="Changes" comment="Lesson 2 about python bots">
+      <change afterPath="$PROJECT_DIR$/new_stuff_in_lesson/oop_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_stuff_in_lesson/array_demonstration.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_stuff_in_lesson/array_demonstration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_stuff_in_lesson/message_count_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_stuff_in_lesson/message_count_bot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mirinbrah&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mirinbrah/py_bots_lesson_2.git&quot;,
+    &quot;accountId&quot;: &quot;4829f0b1-b63f-4b9b-84be-5643142c1c0e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="32IMB7OgI5KegSXXTu6rQfZckAs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,6 +52,7 @@
     "Python.functions_demonstration.executor": "Run",
     "Python.keywords_demonstration.executor": "Run",
     "Python.message_count_bot.executor": "Run",
+    "Python.oop_demo.executor": "Run",
     "Python.slicing_demonstration.executor": "Run",
     "Python.task_1_even_odd.executor": "Run",
     "Python.task_1_variant.executor": "Run",
@@ -80,6 +81,19 @@
       <option name="presentableId" value="Default" />
       <updated>1757103494792</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson 2 about python bots">
+      <option name="closed" value="true" />
+      <created>1757112508202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757112508202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 2 about python bots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2 about python bots" />
   </component>
 </project>

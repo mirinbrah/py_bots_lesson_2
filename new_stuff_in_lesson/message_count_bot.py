@@ -2,7 +2,7 @@ import asyncio
 import logging
 from config import TOKEN
 
-from aiogram import Bot, Dispatcher, Router, types
+from aiogram import Bot, Dispatcher, Router
 from aiogram.filters import CommandStart, Command
 from aiogram.types import Message
 

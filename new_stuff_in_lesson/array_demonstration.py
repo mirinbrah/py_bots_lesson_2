@@ -144,9 +144,9 @@ def demonstrate_sets():
 
 def main():
     demonstrate_lists()
-    demonstrate_tuples()
-    demonstrate_dicts()
-    demonstrate_sets()
+    # demonstrate_tuples()
+    # demonstrate_dicts()
+    # demonstrate_sets()
 
 
 if __name__ == "__main__":
